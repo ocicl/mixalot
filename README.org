@@ -2,9 +2,8 @@
 
 Loosely-coupled collection of audio libraries in Common Lisp
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/ahefner/mixalot.git   |
-| commit  | 4b184c8  |
-| systems | mixalot |
-|---------+-------------------------------------------|
-
+|---------+--------------------------------------------|
+| source  | git:https://github.com/ahefner/mixalot.git |
+| commit  | 4342fca                                    |
+| systems | mixalot                                    |
+|---------+--------------------------------------------|
